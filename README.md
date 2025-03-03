@@ -18,7 +18,7 @@
 
 📊 **Most Used Languages:**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurtansal&layout=compact&theme=dracula" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurtansal&layout=compact&theme=dark" alt="Most Used Languages">
 </p>
 
 <!---
