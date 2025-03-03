@@ -16,6 +16,11 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/u%C4%9Fur-tansal)
 
+📊 **Most Used Languages:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurtansal&layout=compact&theme=dracula" alt="Most Used Languages">
+</p>
+
 <!---
 ugurtansal/ugurtansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
