@@ -3,7 +3,7 @@
 ---
 - 🌱 I’m currently learning Flutter , Java , JavaScript and SQL
 - 📫 You can reach me  ugur.tansal@gmail.com
-- 📚 I'm studying Software Engineering at Alparslan Türkeş Science and Technology University
+- 📚 I'm studying Software Engineering at Adana Alparslan Türkeş Science and Technology University
   
   
 <p align="left">
