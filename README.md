@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi, I’m Uğur Tansal!</h1>
 
 ---
-- 🌱 I’m currently learning Flutter , Java , JavaScript and SQL
+- 🌱 I’m currently learning Kotlin,Flutter , Java , JavaScript and SQL
 - 📫 You can reach me  ugur.tansal@gmail.com
 - 📚 I'm studying Software Engineering at Adana Alparslan Türkeş Science and Technology University
   
